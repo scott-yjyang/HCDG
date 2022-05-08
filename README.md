@@ -26,7 +26,7 @@
 2. Train the model.
 
     ``` bash
-    python train.py -g 0 --datasetTrain 1 2 3 --datasetTest 4 --batch-size 4 --resume ./pretrained-weight/test4-epoch40.pth.tar # You need to pretrain a vanilla model
+    python train.py -g 0 --datasetTrain 1 2 3 --datasetTest 4 --batch-size 4 --resume ./pretrained-weight/test4-40.pth.tar # You need to pretrain a vanilla model
     ```
 3. Test the model.
 
