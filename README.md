@@ -16,6 +16,8 @@
     pip install opencv-python
     pip install pyyaml
     pip install MedPy
+    pip install tqdm
+    pip install matplotlib
     conda install -c anaconda scikit-image
     ```
     
