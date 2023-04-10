@@ -40,6 +40,7 @@
 ## Reference
 
 If you find this code helpful, please cite our paper:
+
     ``` 
       @article{yang2021hcdg,
          title={Hcdg: A Hierarchical Consistency Framework for Domain Generalization on Medical Image Segmentation},
