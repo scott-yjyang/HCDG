@@ -41,7 +41,7 @@
 
 If you find this code helpful, please cite our paper:
 
-    ``` 
+    ``` bash
       @article{yang2021hcdg,
          title={Hcdg: A Hierarchical Consistency Framework for Domain Generalization on Medical Image Segmentation},
          author={Yang, Yijun and Wang, Shujun and Zhu, Lei and Yu, Lequan},
